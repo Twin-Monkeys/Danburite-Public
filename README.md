@@ -27,4 +27,9 @@ Unfortunately, the source has not been completed yet. development is currently u
 - Skeletal animation (GPU skinning)
 
 ### Demo ###
-
+<img src="demo/silhouette.png" width="640">
+<img src="demo/edge detection.png" width="640">
+<img src="demo/refraction.png" width="640">
+<img src="demo/normal mapping.png" width="640">
+<a href="https://drive.google.com/file/d/1IgHSbIu1ZWQs80VsTJSgYDfxcVxv3zSE/view?usp=sharing"><img src="demo/thumbnail.png" width="640"></a>
+(Click on the image above to play demo video)

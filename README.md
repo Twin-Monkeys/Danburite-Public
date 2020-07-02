@@ -32,6 +32,6 @@ Unfortunately, the source has not been completed yet. development is currently u
 <img src="demo/refraction.png" width="640">
 <img src="demo/normal mapping.png" width="640">
 <kbd>
-<a href="https://drive.google.com/file/d/1IgHSbIu1ZWQs80VsTJSgYDfxcVxv3zSE/view?usp=sharing"><img src="demo/thumbnail.png" width="640"></a><br>
+<a href="https://drive.google.com/file/d/1IgHSbIu1ZWQs80VsTJSgYDfxcVxv3zSE/view?usp=sharing" target="_blank"><img src="demo/thumbnail.png" width="640"></a><br>
 (Click on the image above to play demo video)
 </kbd>
